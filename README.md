@@ -26,7 +26,9 @@ python3.7 HUANG_XUEWEI_hw5.py --source=remote(about 30-35min)
 python3.7 HUANG_XUEWEI_hw5.py --source=local
 
 
-3. Please delete all files created by the command in #2 each time, then run the next command in #2.
+3. If --source=test or remote, please delete all files（1 .db file, 4 .csv files） created by the command in #2 each time, then run the next command in #2.
+
+If --source=local, you should only delete the .db file, the command will get data from the 4 local csv files.
 
 
 Finally,
